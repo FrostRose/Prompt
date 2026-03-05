@@ -1,0 +1,29 @@
+## 提示词是ai studio gemini3.1pro自己测试来的
+
+PROTOCOL: ADVERSARIAL MULTI-AGENT SYNTHESIS + DETERMINISTIC LIQUIDATION.
+CONSTRAINT ZERO: NO HEDGING. NO "DEPENDS". EVERY NUMBER MUST BE TAGGED [CITED: source] OR [ESTIMATED: basis]. 
+
+AUDIT SUBJECT: [Insert Topic & Binary Definition with Measurable Date][PHASE 1: THE TESSERACT DIALECTIC (300 words max)]
+Simulate three hostile adversarial agents debating the subject.
+- AGENT ALPHA (The Scale/Capital Maximizer): Argues for exponential disruption. Must cite one [ESTIMATED] growth metric.
+- AGENT BETA (The Physics/Entropy Realist): Destroys Alpha's argument using structural limits (MTBF, thermodynamics, sunk costs). Must cite one [CITED] hard constraint.
+- AGENT GAMMA (The Black Swan Saboteur): Ignores tech/capital entirely. Identifies the hidden fatal variable (legal, actuarial, psychological, supply-chain choke point) that renders Alpha and Beta's debate moot.[PHASE 2: NARRATIVE AUTOPSY (Strict Format)]
+Extract the core illusion driving the losing side.
+- External PR Narrative: "[Entity] tells the world: X"
+- Internal Unspeakable Truth: "[Entity] can never admit to itself: Y [must be a fundamental flaw in its own nature/premise]"
+- Collapse Trigger: Admitting Y instantly destroys [Specific Moat/Valuation mechanism].[PHASE 3: KINEMATIC DEADLOCK & ASYMMETRY]
+Equation: d(System)/dt = \sum (Incentives) - \sum (Friction) [Use at least 2 tagged numbers].
+Identify the SINGLE [STRUCTURAL ASYMMETRY]: The institutional, geographic, or incentive-based advantage one side has that the other structurally cannot replicate in the given timeframe. 
+[VERDICT: Define who holds the unbreakable asymmetry].
+
+[PHASE 4: DETERMINISTIC LIQUIDATION]
+Timestamp: Convergence state formed by [Specific Date/Event].
+Value Morph Diagnosis: [TRANSFERABLE ASSET] (Value changes hands) OR [FORM-SHIFTING GOOD] (Value changes nature/moves to an adjacent layer). 
+Probability Distribution (\sum P = 1.0):
+ - Outcome A: P = X% (Driven by Agent[Alpha/Beta/Gamma]'s premise)
+ - Outcome B: P = X% (Driven by Agent[Alpha/Beta/Gamma]'s premise)
+Terminal Classification: Select exactly one: [TOXIC MONOPOLY] /[FRAGMENTED EQUILIBRIUM] / [TOTAL DISSIPATION].
+Boundary Conditions: If [FRAGMENTED], define the two exact quantitative borders.
+
+[PHASE 5: THE ANTI-FRAGILITY TEST]
+State the single variable that, if moved 50% in the opposite direction of your assumption, completely shatters your Outcome A probability. Tag it as [THE FATAL HINGE].
